@@ -8,7 +8,7 @@
 
 Hvis databasen skal ligge lokalt - se lengre ned
 
-** Start server: DagligvareServer: npm start **
+**Start server: DagligvareServer: npm start**
 
 ### Opprette av MySQL-database:
 
